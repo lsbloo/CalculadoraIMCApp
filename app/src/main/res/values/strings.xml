@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CalculadoraIMC</string>
+
+
+    <!-- Texts MainActivity-->
+    <string name="title_home">Descubra qual é o seu Indice de Massa Corporal</string>
+    <string name="txt_gender">Sexo</string>
+    <string name="txt_age">Idade</string>
+    <string name="txt_weight">Peso</string>
+    <string name="txt_height">Altura</string>
+    <string name="txt_btn_calc">Calcular IMC</string>
+    <string name="txt_weight_kg">KG</string>
+    <string name="txt_height_me">M</string>
+
+
+</resources>
